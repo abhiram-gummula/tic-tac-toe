@@ -1,0 +1,2 @@
+Line is creating issue when window is resized!
+It is alright when window is full-screen.
